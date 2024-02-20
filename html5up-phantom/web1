@@ -1,0 +1,25 @@
+ <div class="wrap">
+        <nav class="nav-top">
+            <span class="to-list">목록</span>
+            <h1 class="title">스크롤해봐요</h1>
+            <span class="open-menu">네비</span>
+            <ul>
+                <li><a href="#">메뉴1</a></li>
+                <li><a href="#">메뉴2</a></li>
+                <li><a href="#">메뉴3</a></li>
+            </ul>
+        </nav>
+        <div class="contents">
+            <img src="https://fakeimg.pl/375x500/ff5000,128/000,255">
+            <img src="https://fakeimg.pl/375x500/#787878,128/000,255">
+            <img src="https://fakeimg.pl/375x500/ff8888,128/000,255">
+            <img src="https://fakeimg.pl/375x500/ff5000,128/000,255">
+            <img src="https://fakeimg.pl/375x500/#787878,128/000,255">
+            <img src="https://fakeimg.pl/375x500/ff8888,128/000,255">
+        </div>
+        <nav class="nav-bottom">
+            <span class="prev">이전화</span>
+            <span class="to-the-top">맨 위로</span>
+            <span class="next">다음화</span>
+        </nav>
+    </div>
